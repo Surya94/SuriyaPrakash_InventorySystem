@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7a1c58b9f56dc459376af4cde2c022, type: 3}
+  m_Name: ResourceDataSO
+  m_EditorClassIdentifier: 
+  itemResources:
+  - itemType: 1
+    itemIcon: {fileID: 21300000, guid: a1d46cd3f2614cc43be92ab44ea7d819, type: 3}
+    PickableObj: {fileID: 8355358586356816888, guid: fd97638ac192cc2489b4f0c68a7eed05, type: 3}
+  - itemType: 2
+    itemIcon: {fileID: 21300012, guid: a1d46cd3f2614cc43be92ab44ea7d819, type: 3}
+    PickableObj: {fileID: 8355358586356816888, guid: 2d6aeca4f3a21ac4bb0294050227c6d7, type: 3}
+  - itemType: 4
+    itemIcon: {fileID: 21300022, guid: 5acb27b603af6d44ea6113c4b7b15385, type: 3}
+    PickableObj: {fileID: 8355358586356816888, guid: d53fb4bcd96dfc5438afe76b867d9d70, type: 3}
+  - itemType: 5
+    itemIcon: {fileID: 21300040, guid: 5acb27b603af6d44ea6113c4b7b15385, type: 3}
+    PickableObj: {fileID: 8355358586356816888, guid: efaea657ca38b5b40a62ff25582d775f, type: 3}
+  - itemType: 1
+    itemIcon: {fileID: 21300000, guid: a1d46cd3f2614cc43be92ab44ea7d819, type: 3}
+    PickableObj: {fileID: 8355358586356816888, guid: 2d6aeca4f3a21ac4bb0294050227c6d7, type: 3}
